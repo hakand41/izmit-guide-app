@@ -19,4 +19,14 @@
 - Dart: Flutter uygulamalarını yazmak için kullanılan programlama dili.
 - RESTful API: Uygulamanın veri alışverişi için kullanılan API'lar.
 
+## Kurulum
+
+Uygulamayı yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
+
+1. Proje dosyalarını bilgisayarınıza kopyalayın.
+2. Dart ve Flutter SDK'larını bilgisayarınıza kurun.
+3. Projeyi bir Flutter projesi olarak açın.
+4. Bağımlılıkları yüklemek için terminalde `flutter pub get` komutunu çalıştırın.
+5. Emülatörde veya fiziksel cihazda uygulamayı başlatmak için `flutter run` komutunu çalıştırın.
+
 ## Screenshots
