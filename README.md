@@ -31,7 +31,7 @@ Uygulamayı yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 
 ## Screenshots
 1. Ana Sayfa
-   ![main_page](https://github.com/hakand41/izmit-guide-app/assets/98481026/6d28e787-7fea-4612-a1d6-aa045333b2b9)
+   ![main_page](https://github.com/hakand41/izmit-guide-app/assets/98481026/207a7b6a-3df5-4ec6-a3af-5859d745d1c7)
 2. Hava Durumu Arayüzü
    ![hava_durumu](https://github.com/hakand41/izmit-guide-app/assets/98481026/7ed632a5-5d22-46ea-89f1-6e5532d08727)
 3. Örnek Kategori Sayfası
