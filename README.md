@@ -30,3 +30,14 @@ Uygulamayı yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 5. Emülatörde veya fiziksel cihazda uygulamayı başlatmak için `flutter run` komutunu çalıştırın.
 
 ## Screenshots
+1. Ana Sayfa
+   ![main_page](https://github.com/hakand41/izmit-guide-app/assets/98481026/6d28e787-7fea-4612-a1d6-aa045333b2b9)
+2. Hava Durumu Arayüzü
+   ![hava_durumu](https://github.com/hakand41/izmit-guide-app/assets/98481026/7ed632a5-5d22-46ea-89f1-6e5532d08727)
+3. Örnek Kategori Sayfası
+   ![muzeler](https://github.com/hakand41/izmit-guide-app/assets/98481026/78dc8e43-db32-4c30-95d8-e50b9d465b92)
+4. Örnek Detay Satfası
+   ![ornek_detay_Sayfasi](https://github.com/hakand41/izmit-guide-app/assets/98481026/86fbcb0e-1de5-46e8-a9bb-4d143df806dd)
+
+
+
